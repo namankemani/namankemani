@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently a final-year undergraduate seeking to become a Software Development Engineer.
+I'm currently a Software Development Engineer.
 
 
 ## 🌐 Socials:
